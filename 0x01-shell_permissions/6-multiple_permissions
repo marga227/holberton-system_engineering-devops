@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R 774 hello
+sudo chmod u=rwx, g=rwx, o=r hello
