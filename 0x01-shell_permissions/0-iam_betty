@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo usermod -u 227 betty
+su betty
