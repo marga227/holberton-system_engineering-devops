@@ -1,0 +1,8 @@
+#Shell Redirections
+
+##Objetivo
+
+##Task
+
+
+
