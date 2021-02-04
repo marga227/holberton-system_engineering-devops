@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo bbb
+echo "Holberton School" > "\*\\\'\"Holberton School\"\'\\\*$\?\*\*\*\*\*:)"
